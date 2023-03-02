@@ -1,0 +1,14 @@
+• Main goal
+
+To identify which are the main characteristics of sustainable SLR and highlight guidelines/best practices that could possibly aid in the creation of more sustainable SLR.
+
+• Expected Results
+
+Translate the essential sustainability concepts that can support researchers towards more sustainable SLR. 
+
+• Main constraints: 
+
+	(i) we considered mostly the SLR excluding variations or adaptations that differs from traditional secondary studies e.g., Mapping studies, Rapid Reviews, Multivocal Reviews;
+
+	(ii) we considered only studies about the sustainability of SS excluding sustainability in other areas (e.g., Ecology or Software Architectures). This decision was taken because the Ecology area proposes solutions for a wide range of problems including environmental issues that don't have many similarities with secondary studies context. Hence, we decided to choose Sustainability for Software Systems due to the similarities between software construction and SLR conduction. 
+
